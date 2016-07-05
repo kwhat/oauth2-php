@@ -2,7 +2,7 @@
 
 namespace OAuth2;
 
-use Symfony\Component\HttpFoundation\Response;
+use Slim\Http\Response;
 
 /**
  * OAuth2 errors that require termination of OAuth2 due to an error.

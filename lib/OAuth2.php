@@ -5,8 +5,8 @@ namespace OAuth2;
 use OAuth2\Model\IOAuth2AccessToken;
 use OAuth2\Model\IOAuth2AuthCode;
 use OAuth2\Model\IOAuth2Client;
-use Symfony\Component\HttpFoundation\Request;
-use Symfony\Component\HttpFoundation\Response;
+use Slim\Http\Request;
+use Slim\Http\Response;
 
 /**
  * @mainpage
